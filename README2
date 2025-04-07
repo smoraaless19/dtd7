@@ -1,0 +1,20 @@
+# Ejercicio DTD7 - Corrección de DTD Interna
+
+##  Alumno
+**Nombre:** Sergio Morales  
+**Curso:** ASIR1  
+**Fecha de Realización:** 06/04/2025  
+
+##  Descripción
+En este ejercicio se han corregido errores en la **DTD interna** de un documento XML.  
+El XML representa una factura con información del cliente, fecha y una lista de productos comprados.
+
+##  Tecnologías
+- XML 1.0
+- DTD interna
+- Editor: Visual Studio Code
+
+##  Estado
+DTD corregida. Documento XML validado correctamente.
+
+## Estructura del Proyecto
